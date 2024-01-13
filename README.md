@@ -6,7 +6,7 @@ The dataset used is porperty of the Mobilitycs project and is expected to releas
 
 The scripts section contains three folders:
 
-* **dataset_proces**, dedicated to preproecssing the dataset in data/raw into the feature slinding windows. The notebooks in this folder must be exectued in order.
+* **dataset_process**, dedicated to preproecssing the dataset in data/raw into the feature slinding windows. The notebooks in this folder must be exectued in order.
 * **ML_models**, which contains all the tested models and their performance metrics, alongside experiments usinging diferent interations of our dataset.
 * **XAI**, where explainability methods applied to our best performing model.
 
